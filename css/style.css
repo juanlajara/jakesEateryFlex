@@ -1,5 +1,8 @@
 /* Navigation styles */
-
+.nav {
+	display: flex;
+	justify-content: space-between;
+}
 /* Column styles */
 
 /* Footer Styles */
